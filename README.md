@@ -1,8 +1,8 @@
-# <h1 style="text-align:center;">Yo!, I am Yash 🙋 </h1>
+# <h2 style="text-align:center;">Yo!, I am Yash 🙋 </h2>
 🔭 I’m a Computer Science student and a tech geek<br>🌱 I’m currently learning System Design, Distributed System and RISC-V<br>🤝 I’m looking to begin with Open Source Contributions
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-mahto-163335260/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hexprogram05@gmail.com) 
 
 # 💻 Tech Stack:

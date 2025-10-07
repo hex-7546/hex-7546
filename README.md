@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m a Computer Science student and a tech geek<br>👯 I love exploring and try out new technologies<br>🌱 I’m currently learning System Design, Distributed System and RISC-V<br>🤝 I’m looking to begin with Open Source Contributions
+# Yo, I am Yash 🙋:
+🔭 I’m a Computer Science student and a tech geek<br>🌱 I’m currently learning System Design, Distributed System and RISC-V<br>🤝 I’m looking to begin with Open Source Contributions
 
 
 ## 🌐 Socials:
